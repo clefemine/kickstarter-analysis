@@ -3,9 +3,11 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Challenge
 #### Outcomes Based on Goals
-![goals](Outcomes Based on Goals.png)
+![goals](Outcomes%20Based%20on%20Goals.png)
 #### Outcomes Based on Launch Dates
-![dates](Outcomes Based on Launch Dates.png)
+![dates](Outcomes%20Based%20on%20Launch%20Dates.png)
+### Outcomes Based on Parent Categories
+![parentcategories](Outcomes%20of%20Parent%20Categories.png)
 
 Analysis: 
 - Play campaigns that had a %50 or higher successful outcome had goals of less than $14999 and between $35000 to $44999
